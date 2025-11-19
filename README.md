@@ -10,16 +10,17 @@
 
 ## Developer Projects
 
-| Developer | Repo Link       | Access | Status        | Notes/PR Link |
-| --------- | --------------- | ------ | ------------- | ----- |
-| Dev 1     | *awaiting link* | ❌      | ⬜ Not Started |       |
-| Dev 2     | *awaiting link* | ❌      | ⬜ Not Started |       |
-| Dev 3     | *awaiting link* | ❌      | ⬜ Not Started |       |
-| Dev 4     | *awaiting link* | ❌      | ⬜ Not Started |       |
-| Dev 5     | *awaiting link* | ❌      | ⬜ Not Started |       |
-| Dev 6     | *awaiting link* | ❌      | ⬜ Not Started |       |
-| Dev 7     | *awaiting link* | ❌      | ⬜ Not Started |       |
-| Dev 8     | *awaiting link* | ❌      | ⬜ Not Started |       |
+| Developer Name | GitHub ID      | Repo Link       | Access | Status        | Notes/PR Link |
+| -------------- | -------------- | --------------- | ------ | ------------- | ------------- |
+| Dev 1          | *awaiting ID*  | *awaiting link* | ❌      | ⬜ Not Started |               |
+| Dev 2          | *awaiting ID*  | *awaiting link* | ❌      | ⬜ Not Started |               |
+| Dev 3          | *awaiting ID*  | *awaiting link* | ❌      | ⬜ Not Started |               |
+| Dev 4          | *awaiting ID*  | *awaiting link* | ❌      | ⬜ Not Started |               |
+| Dev 5          | *awaiting ID*  | *awaiting link* | ❌      | ⬜ Not Started |               |
+| Dev 6          | *awaiting ID*  | *awaiting link* | ❌      | ⬜ Not Started |               |
+| Dev 7          | *awaiting ID*  | *awaiting link* | ❌      | ⬜ Not Started |               |
+| Dev 8          | *awaiting ID*  | *awaiting link* | ❌      | ⬜ Not Started |               |
+
 ---
 
 ## 🧩 Status Legend
