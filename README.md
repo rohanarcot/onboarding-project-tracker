@@ -1,43 +1,20 @@
-
-
 # 📁 Onboarding Project Tracker
 
-➡️ **Template:** [https://github.com/rohanarcot/onboarding-boilerplate-bsl-aboutme](https://github.com/rohanarcot/onboarding-boilerplate-bsl-aboutme)
+**DO NOT** EDIT THIS FILE.
 
-➡️ **Roadmap:** https://docs.google.com/document/d/1eehOi2PHwjmDwAV59-VaiT8qHHoEZKbpc38-G4j7J4I/edit?usp=sharing
+➡️ **Template:**
+[https://github.com/CSES-UCSD/nextjs-boilerplate/issues](https://github.com/CSES-UCSD/nextjs-boilerplate/issues)
 
----
+➡️ **Roadmap:**
+[https://docs.google.com/document/d/1eehOi2PHwjmDwAV59-VaiT8qHHoEZKbpc38-G4j7J4I/edit?usp=sharing](https://docs.google.com/document/d/1eehOi2PHwjmDwAV59-VaiT8qHHoEZKbpc38-G4j7J4I/edit?usp=sharing)
 
-## Developer Projects
 
-| Developer Name | GitHub ID      | Repo Link       | Access | Status        | Notes/PR Link |
-| -------------- | -------------- | --------------- | ------ | ------------- | ------------- |
-| Dev 1          | *awaiting ID*  | *awaiting link* | ❌      | ⬜ Not Started |               |
-| Dev 2          | *awaiting ID*  | *awaiting link* | ❌      | ⬜ Not Started |               |
-| Dev 3          | *awaiting ID*  | *awaiting link* | ❌      | ⬜ Not Started |               |
-| Dev 4          | *awaiting ID*  | *awaiting link* | ❌      | ⬜ Not Started |               |
-| Dev 5          | *awaiting ID*  | *awaiting link* | ❌      | ⬜ Not Started |               |
-| Dev 6          | *awaiting ID*  | *awaiting link* | ❌      | ⬜ Not Started |               |
-| Dev 7          | *awaiting ID*  | *awaiting link* | ❌      | ⬜ Not Started |               |
-| Dev 8          | *awaiting ID*  | *awaiting link* | ❌      | ⬜ Not Started |               |
+# 📘 Instructions for Developers
 
----
+## 1️⃣ Create your project repo from the template
 
-## 🧩 Status Legend
-
-* 🟩 Complete
-* 🟨 In Progress
-* ⬜ Not Started
-* 🔁 Needs Review
-
----
-
-## Instructions for Developers
-
-### 1️⃣ Create your repo from the template
-
-Go to:
-[https://github.com/rohanarcot/onboarding-boilerplate-bsl-aboutme](https://github.com/rohanarcot/onboarding-boilerplate-bsl-aboutme)
+Go to the template repo:
+[https://github.com/CSES-UCSD/nextjs-boilerplate/issues](https://github.com/CSES-UCSD/nextjs-boilerplate/issues)
 
 Click:
 
@@ -54,12 +31,11 @@ Name your repo:
 <yourname>-aboutme
 ```
 
-It will be **private** by default.
-
+Your repository will be **private** by default. Up to you if you want to make it public.
 
 ---
 
-### 2️⃣ Add Rohan as a collaborator
+## 2️⃣ Add Rohan as a collaborator
 
 Go to:
 
@@ -75,15 +51,85 @@ rohanarcot
 
 ---
 
-### 3️⃣ Create a Pull Request on this tracker repo with your repo link
+## 3️⃣ Create your personal markdown file in the `devs` folder
 
-You will be editing the README.md file.
+*NOTE* If you have little experience creating a new branch and a pull request, read and watch this before reading further: https://github.blog/developer-skills/github/beginners-guide-to-github-creating-a-pull-request/ 
 
-For information on how to create a new branch and a pull request: https://github.blog/developer-skills/github/beginners-guide-to-github-creating-a-pull-request/
+### Your task:
 
+1. **Create a new branch**
+   Example:
 
-### 4️⃣ If you want a Code Review
+   ```
+   dev/<yourname>-profile
+   ```
 
-Edit the table in this README.md file to: "Needs Review" along with your PR Link and I will see it. 
+2. Inside the `devs/` folder, create a new file named:
 
-To do so create a new branch with your edits on this repo and create a pull request. 
+```
+devs/<yourname>.md
+```
+
+Examples:
+
+* `devs/rohan.md`
+* `devs/subhash.md`
+* `devs/pranav.md`
+
+3. Copy the content from `devs/template.md`
+
+4. Paste it into your file
+
+5. Fill it out with:
+
+   * Your repo link
+   * Your status
+   * Notes, blockers, or anything you want to share
+
+### Example structure:
+
+```
+# Rohan – Onboarding Project
+
+## Repo
+https://github.com/rohanarcot/rohan-aboutme
+
+## Status
+In Progress
+
+## Notes
+- Setup completed
+- Working on UI layout
+```
+
+---
+
+## 4️⃣ Create a Pull Request with your `.md` file
+
+1. Push your branch
+2. Open a Pull Request
+3. Request a review from rohanarcot (Rohan) on the top right (Reviewers)
+3. PR should contain **only one file**:
+
+   ```
+   devs/<yourname>.md
+   ```
+
+Rohan will review it, merge it and update the main README table with your repo information.
+
+---
+
+## 5️⃣ Request Code Review (Optional)
+
+If you want feedback on your **actual project repo**:
+
+1. Create a PR (Pull Request) on your actual project aboutme repo and add Rohan as a reviewer
+
+2. Update your `<yourname>.md` file on this tracker repo and create a PR:
+
+   * Set **Status → 🔁 Needs Review**
+   * Add your actual project PR link
+
+Rohan will review your code and leave feedback.
+
+---
