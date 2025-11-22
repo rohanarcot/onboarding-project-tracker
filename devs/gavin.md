@@ -4,7 +4,7 @@
 [https://github.com/gavinlin24/aboutme]
 
 ## Status
-Not started / In progress / Complete
+In progress
 
 ## Notes
 - Use this section for comments, blockers, or reflections
